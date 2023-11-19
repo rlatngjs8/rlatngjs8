@@ -7,6 +7,7 @@ hi suhun
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlatngjs8)](https://github.com/anuraghazra/github-readme-stats)
+[![rlatngjs8's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatngjs8&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rlatngjs8)
 <!--
 **rlatngjs8/rlatngjs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
