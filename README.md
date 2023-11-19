@@ -4,7 +4,7 @@ hi suhun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 ![js](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 
 <!--
 **rlatngjs8/rlatngjs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
