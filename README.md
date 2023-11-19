@@ -15,6 +15,7 @@ hi suhun
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
+<a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 
 
 
