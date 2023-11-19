@@ -4,11 +4,12 @@ hi suhun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 ![js](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+## Skills
+<a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Java-13448F?style=flat-square&logo=openjdk&logoColor=white"/></a>
+
+
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-<a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
-<a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></a>
+
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
 
 <!--
