@@ -20,7 +20,7 @@ hi suhun
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatngjs8&show_icons=true&theme=blue_navy&locale=kr&hide=stars,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatngjs8&show_icons=true&theme=flag-india&locale=kr&hide=stars,contribs)
 
 <!--
 **rlatngjs8/rlatngjs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
