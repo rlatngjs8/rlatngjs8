@@ -1,9 +1,13 @@
 <div align="center">
 
-## Kim Su Hun's Github 🙂
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=rlatngjs8's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
 
 <br/><br/>
+
+## Introduce
+안녕하세요👋
+백엔드를 공부하고 있는 김수헌 입니다
+항상 최선을 다하기 위해 노력합니다
 
 ## Skills
 
