@@ -8,13 +8,13 @@
 
 <div align="center">
   
-✅ 안녕하세요👋 저는 김수헌이라고 합니다  
+안녕하세요👋 저는 김수헌이라고 합니다  
   
-✅ 백엔드 개발을 공부하고 있는 열정적인 개발자입니다  
+백엔드 개발을 공부하고 있는 열정적인 개발자입니다  
 
-✅ 항상 새로운 기술에 도전하며 성장하기 위해 노력하고 있습니다  
+항상 새로운 기술에 도전하며 성장하기 위해 노력하고 있습니다  
 
-✅ 끊임없는 도전으로 성장하는 하여 함께 일하면서 서로에게 도움이 되고, 성공을 함께 나눌 수 있는 기회를 기대하고 있습니다!  
+끊임없는 도전으로 성장하며, 함께 일하고 성공을 나누고 싶습니다🔥
 </div><br/>
   
 ## 🛠️ Tech Stack
@@ -34,9 +34,9 @@
 
 ## 😀 About Me
 
-<a href="mailto:tngjs97@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:tngjs97@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://adorable-cucumber-415.notion.site/Kim-Su-Hun-098d0588311a470ebcf7f3ebffc87e41"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatngjs8&show_icons=true&theme=shadow_blue&locale=kr&hide=stars,contribs)
 </div> 
 <!--
