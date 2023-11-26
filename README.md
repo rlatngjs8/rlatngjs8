@@ -4,12 +4,13 @@
 
 <br/><br/>
 
-## Introduce
+## Introduce 💁‍♂️
 안녕하세요👋
-백엔드를 공부하고 있는 김수헌 입니다
+백엔드를 공부하고 있는 김수헌 입니다  
+
 항상 최선을 다하기 위해 노력합니다
 
-## Skills
+## Skills 🛠️
 
 <a><img src="https://img.shields.io/badge/Java-13448F?style=flat-square&logo=openjdk&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
