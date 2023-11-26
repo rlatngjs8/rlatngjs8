@@ -28,11 +28,8 @@
 
 ## 😀 About Me
 
-<a><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>  
-tngjs97@gmail.com  
-
+<a href="mailto:tngjs97@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://adorable-cucumber-415.notion.site/Kim-Su-Hun-098d0588311a470ebcf7f3ebffc87e41"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-포트폴리오
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatngjs8&show_icons=true&theme=shadow_blue&locale=kr&hide=stars,contribs)
 </div> 
