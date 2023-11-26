@@ -25,9 +25,9 @@ hi suhun
 <a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> 
 <a href="https://adorable-cucumber-415.notion.site/Kim-Su-Hun-098d0588311a470ebcf7f3ebffc87e41"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
-</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatngjs8&show_icons=true&theme=shadow_blue&locale=kr&hide=stars,contribs)
- 
+</div> 
 <!--
 **rlatngjs8/rlatngjs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
