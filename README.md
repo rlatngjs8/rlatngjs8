@@ -33,7 +33,7 @@
 <br>
 
 ## 😀 About Me
-click!  
+click!<br>
 <a href="mailto:tngjs97@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://adorable-cucumber-415.notion.site/Kim-Su-Hun-098d0588311a470ebcf7f3ebffc87e41"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <br><br><br><br>  
