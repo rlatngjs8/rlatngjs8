@@ -30,8 +30,7 @@
 <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a> 
  
-
-
+<br/>
 
 ## 😀 About Me
 
