@@ -1,9 +1,11 @@
+<div align="center">
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 hi suhun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 ## Skills
+
 <a><img src="https://img.shields.io/badge/Java-13448F?style=flat-square&logo=openjdk&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> 
@@ -23,7 +25,7 @@ hi suhun
 <a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> 
 <a href="https://adorable-cucumber-415.notion.site/Kim-Su-Hun-098d0588311a470ebcf7f3ebffc87e41"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
-
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatngjs8&show_icons=true&theme=shadow_blue&locale=kr&hide=stars,contribs)
  
 <!--
