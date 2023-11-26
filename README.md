@@ -1,8 +1,7 @@
 <div align="center">
 
-### Hi there 👋
+## Kim Su Hun's Github 🙂
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-hi suhun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 ## Skills
