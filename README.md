@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Kim Su Hun's Github 🙂
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=rlatngjs8's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=rlatngjs8's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
 
 <br/><br/>
 
